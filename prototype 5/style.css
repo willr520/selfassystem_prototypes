@@ -1,0 +1,33 @@
+@font-face{
+    font-family:cute;
+    src:url(cute.otf);
+}
+
+@font-face {
+    font-family: kinkie;
+    src:url(kinkie.ttf);
+}
+
+#title {
+    font-family: kinkie;
+    color:white;
+    font-size: 50px;
+}
+
+ul {
+    font-size: 30px;
+    list-style: none;
+    color:white;
+    font-family: cute;
+}
+
+li:before { 
+    content: '☆';
+    color:yellow;
+
+
+}
+
+body {
+    background-color:deeppink ;
+}

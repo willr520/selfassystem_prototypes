@@ -1,0 +1,9 @@
+@font-face {
+    font-family: magyla;
+    src: url(magyla.ttf);
+}
+
+ul {
+    font-family: magyla;
+    color:darkgray
+}
